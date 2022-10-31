@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @kobbyob123
-- Well, this is a little about me...
-- I'm interested Tech, data and anything that has to do with zero's and ones...
-- Reading and a little bit of games...
-- That's it...
+- 👋 Hi, I’m Kobby
+- I like reading, algorithms and other stuff like that.
+- Send me a mail and let's work on something!
 
-- I'm a curious person who always wants to improve on stuff,
-- Intermediate Python programmer🐍🐍🐍
-- I would like to reach out to anyone who would like some help with your code or
-has any suggestions for mine.✌️
 - 📫 How to reach me : popolapii@gmail.com
 
 
