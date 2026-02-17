@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kobby
-- I like reading, algorithms and other stuff like that.
-- Send me a mail and let's work on something!
+- I like reading, algorithms, games and other stuff like that.
 
-- 📫 How to reach me : popolapii@gmail.com
+
 
 
 <!---
