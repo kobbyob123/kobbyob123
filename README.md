@@ -1,14 +1,7 @@
-- 👋 Hi, I’m Kobby
-- I like reading, algorithms, games and taking random projects that seem to have no correlation woth each other.
-- It's for the love of the game/code. haha
+## 👋 Hi, I'm Kobby
 
+Applied math MSc student, sometimes a programmer, usually curious.
 
+I like reading, algorithms, games, and chasing random projects that have nothing to do with each other. Some finish, some become a tab I never close.
 
-
-<!---
-kobbyob123/kobbyob123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
---->
+It's for the love of the game — or the code. Haha.
