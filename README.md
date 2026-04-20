@@ -2,7 +2,9 @@
 
 Applied math MSc student, sometimes a programmer, usually curious.
 
-I like reading, algorithms, games, and chasing random projects that have nothing to do with each other. Some finish, some become a tab I never close.
+I like reading, algorithms, games, and chasing random projects that have nothing to do with each other. Some finish, some become a tab I never close. - It's for the love of the game — or the code. Haha.
+
+---
 
 ### 🔭 Currently working on / thinking about
 - My thesis — signal processing and wavelet theory, mostly in MATLAB
@@ -18,7 +20,3 @@ I like reading, algorithms, games, and chasing random projects that have nothing
 ### 📫 Find me
 - LinkedIn: www.linkedin.com/in/kwabena-obeng-ackor
 - Email: kwabena.ackor@gmail.com
-
----
-
-It's for the love of the game — or the code. Haha.
