@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kobby
-- I like reading, algorithms, games and other stuff like that.
+- I like reading, algorithms, games and taking random projects that seem to have no correlation woth each other.
+- It's for the love of the game/code. haha
 
 
 
