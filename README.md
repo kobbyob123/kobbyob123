@@ -14,7 +14,7 @@ It's for the love of the game — or the code. Haha.
 - Application of Numerical Image Analysis for Intruder Detection Purposes...something like that
 - Parallel Linear Algebra Using MPI
 - Starting open source contribution!
-- Creating a personal shell, The Kshell
+- Creating a personal shell, The kshell🐚
 
 ### 🛠️ Tools I reach for
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
