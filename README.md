@@ -11,7 +11,7 @@ It's for the love of the game — or the code. Haha.
 ### 🔭 Currently working on / thinking about
 - My thesis — signal processing and wavelet theory, mostly in MATLAB
 - Leveling up in Python for software engineering, ML and data science
-- Application of Numerical Image Analysis for Intruder Detection Purposes...something like that
+- Application of Numerical Image Analysis for Intruder Detection Purposes...(like computer vision or something like that)
 - Parallel Linear Algebra Using MPI
 - Starting open source contribution!
 - Creating a personal shell, The kshell🐚
